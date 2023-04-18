@@ -1,0 +1,13 @@
+tmbd api key --   https://api.themoviedb.org/3/movie/550?api_key=1e31b001685bb9abfe5d1769c053d634
+
+
+2  ---- create a react app
+
+3 ---- setup Firebase hosting (npm install -g firebase-tools) but before that u need to create profile on then u i'll get that command
+
+4 ----  installing axeos for Tmbd api
+
+5 ------ npm i react-youtube    (for running youtube video)
+
+6 ----  npm i movie-trailer      for trailer
+
